@@ -5,8 +5,7 @@
 This document contains simulated terminal outputs for the 5 audit scripts.
 
 
-
-1. ## System Identity Report (System identity.sh)
+## 1\. System Identity Report (System identity.sh)
 
 
 
